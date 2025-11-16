@@ -1,0 +1,10 @@
+{
+  "description": "ivo.is-a.dev",
+  "owner": {
+    "username": "zxvfbg",
+    "email": "ivo@adnet.bg"
+  },
+  "records": {
+    "A": ["185.230.4.150"]
+  }
+}
